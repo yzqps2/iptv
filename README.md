@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 iPTV
+# 📺 iPTV   又名fatcow
 
 ### 把分散的直播源，变成一套真正属于你的频道系统
 
